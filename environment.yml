@@ -1,0 +1,12 @@
+name: mcnenv
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - torchaudio
+  - cpuonly
+  - torchvision
+  - scikit-learn
+  - matplotlib
+  - seaborn
+prefix: /home/amritha/miniconda3/envs/mcnenv
